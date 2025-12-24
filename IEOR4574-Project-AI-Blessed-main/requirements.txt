@@ -1,9 +1,0 @@
-streamlit==1.51.0
-pandas==2.2.2
-numpy==1.26.4
-sentence-transformers==5.1.2
-scikit-learn==1.7.2
-huggingface_hub==0.36.0
-openai==2.8.1
-fpdf==1.7.2
-reportlab==4.4.5
